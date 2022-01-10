@@ -72,6 +72,8 @@ The goals of this project are to 1) find a new way of measuring how much water f
 
 ### Trail Cameras <a name="subparagraph2"></a>
 
+<img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="300" height="300" /> <img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="300" height="300" /><img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="300" height="300" />
+
 + Trail Cameras that support EXFI data embedded images, this is criticle (most game camera images do). This becomes an issue if you manipulate the files after download, for example, converting the files to another file type or rotating the images. The exchangeable image file format (EXIF) is a standard for embedding technical metadata in image files that many camera manufacturers use and many image-processing programs support. EXIF metadata can be embedded in TIFF and JPEG images.
 + No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful 
 + Sd card, blue tooth, WIFI and cellualar models avaliable.
