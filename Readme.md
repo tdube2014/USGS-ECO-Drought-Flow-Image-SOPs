@@ -44,7 +44,14 @@
 
 
 ## **Introduction** <a name="introduction"></a>
-The goals of this project are to 1) find a new way of measuring how much water flows in small stream networks using timelapse images captured by inexpensive and off-the-shelf cameras and 2) provide a web-based platform for making the images, associated climate and other related data as well as the model itself easy to access and explore. This project will represent a major advancement in how we measure the flow of water by using machine learning (a form of AI) capable of recognizing and reproducing patterns in large and complex datasets such as long-term image timelapses coupled with detailed environmental data. The results of this work will have considerable value for tracking changes in small streams, which are very important habitat for plants and animals. Stream flow is one of the most important environmental drivers in stream habitats, but we don’t currently have a good way to measure stream flow in small stream networks. This is especially important now as small streams are increasingly affected by climate change via more frequent intense floods and more loss of connectivity due to droughts, in addition to challenges introduced by increasing stream temperatures. A better understanding of flow changes and patterns in small streams will help us evaluate which streams are the most likely to be climate refugia and are the best candidates for management and policies to protect vital aquatic habitats otherwise at risk due to warming and drying. 
+
+The goals of this project
+<br>
+1. Find a new way of measuring how much water flows in small stream networks using timelapse images captured by inexpensive and off-the-shelf cameras.
+2. Provide a web-based platform for making the images, associated climate and other related data as well as the model itself easy to access and explore. 
+3. Provide a avenue for Citizen Science engagement with the goal of better understanding of our water resources.
+<br>
+This project will represent a major advancement in how we measure the flow of water by using machine learning (a form of AI) capable of recognizing and reproducing patterns in large and complex datasets such as long-term image timelapses coupled with detailed environmental data. The results of this work will have considerable value for tracking changes in small streams, which are very important habitat for plants and animals. Stream flow is one of the most important environmental drivers in stream habitats, but we don’t currently have a good way to measure stream flow in small stream networks. This is especially important now as small streams are increasingly affected by climate change via more frequent intense floods and more loss of connectivity due to droughts, in addition to challenges introduced by increasing stream temperatures. A better understanding of flow changes and patterns in small streams will help us evaluate which streams are the most likely to be climate refugia and are the best candidates for management and policies to protect vital aquatic habitats otherwise at risk due to warming and drying. 
 
 
 ## **Equipment** <a name="paragraph1"></a>
@@ -54,7 +61,7 @@ The goals of this project are to 1) find a new way of measuring how much water f
 
 
 <br>
-We have attached a list of supplies as a starting point, most are theequipment we use. Actulal items will vaty depending on the camera you choose. The catagories will likely stay the same. As long as you haver a clear view of the river the images should be useful.
+We have attached a list of supplies as a starting point, most items the equipment we use. Actulal items will vaty depending on the camera/location you choose and the budget you are working with. The catagories of equipment will likely stay the same. As long as you haver a clear view of the river, the images should be useful.
 <br>
 <br>
 
