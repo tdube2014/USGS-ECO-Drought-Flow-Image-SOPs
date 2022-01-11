@@ -132,6 +132,12 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 + Any size river is useful.
 + Establish a location for digital flow collection.
 + Install camera so that you can record clear digital photos of the river.
+<br>
+<br>
+*Avery Brook*
+<p align="center">
+  <img src="./Images/Stream Images/Avery.JPG" width="800" title="Avery Brook">
+</p>
 
 <img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
 
