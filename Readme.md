@@ -62,7 +62,9 @@ The goals of this project are to 1) find a new way of measuring how much water f
 ## **Equipment** <a name="paragraph1"></a>
 
 ### **Equipment List** <a name="subparagraph1"></a>
-*Digital Flow equipment*
+*Digital Flow equipment
+<br>
+We have attached a list of supplies as a starting point, most are theequipment we use. Actulal items will vaty depending on the camera you choose. The catagories will likely stay the same. As long as you haver a clear view of the river the images should be useful.
 <br>
 <br>
 *Avery Brook*
@@ -79,23 +81,39 @@ The goals of this project are to 1) find a new way of measuring how much water f
 + Sd card, blue tooth, WIFI and cellualar models avaliable.
 + Price from $99 to $599
 + Camera manufacturers
-  - Bushnell
+  - **Bushnell** This is the camera manufacturer that we use. There are alot of excellent cameras on the market.
   - Moultrie
   - Stealth Cam
   - Many more
 
 
 ### SD Cards <a name="subparagraph3"></a>
++ Sandisk 32GB
+
 
 ### Batteries <a name="subparagraph4"></a>
++ AA batteries
 
-### Avery Brook <a name="subparagraph5"></a>
+### Security Boxes <a name="subparagraph5"></a>
++ CAMLOCKBOX
 
-### Security Boxes <a name="subparagraph6"></a>
+### Security Box Lock <a name="subparagraph6"></a>
++ Masterlock
 
-### Locks <a name="subparagraph7"></a>
+### Python Cable <a name="subparagraph7"></a>
 
 ### Camera mounts <a name="subparagraph21"></a>
+There are a variety of way to mount cameras, tree straps, tree screws, Fence T posts and stand alone ground mounts to name a few.
++ Tree Strap
+<img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
++ Tree screw
+<img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
++ Fence T post
+<img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
++ Ground Mount
++ <img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
+
+
 
 
 
