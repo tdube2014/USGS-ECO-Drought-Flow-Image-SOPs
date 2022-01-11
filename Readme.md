@@ -57,6 +57,7 @@ The goals of this project are to 1) find a new way of measuring how much water f
 We have attached a list of supplies as a starting point, most are theequipment we use. Actulal items will vaty depending on the camera you choose. The catagories will likely stay the same. As long as you haver a clear view of the river the images should be useful.
 <br>
 <br>
+
 *Avery Brook*
 <p align="center">
   <img src="./Images/Stream Images/Avery.JPG" width="800" title="Avery Brook">
@@ -86,9 +87,7 @@ We have attached a list of supplies as a starting point, most are theequipment w
 
 ### Security Boxes <a name="subparagraph5"></a>
 + CAMLOCKBOX
-+ <img src="Equipment Info/Flow Cam/Images/Camlock box 1.jpg" width="150" height="150" />
-
-Equipment Info/Flow Cam/Images/Camlock box 1.jpg
++ <img src="Equipment Info/Flow Cam/Images/Camlock box 1.jpg" width="150" height="150"
 
 ### Security Box Lock <a name="subparagraph6"></a>
 + Masterlock
@@ -97,8 +96,6 @@ Equipment Info/Flow Cam/Images/Camlock box 1.jpg
 
 ### Python Cable <a name="subparagraph7"></a>
 <img src="Equipment Info/Flow Cam/Images/Python Cable.jpg" width="150" height="150" />
-
-Equipment Info/Flow Cam/Images/Python Cable.jpg
 
 ### Camera mounts <a name="subparagraph21"></a>
 There are a variety of way to mount cameras, tree straps, tree screws, Fence T posts and stand alone ground mounts to name a few.
@@ -136,8 +133,7 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 + Establish a location for digital flow collection.
 + Install camera so that you can record clear digital photos of the river In a upstream Direction.
 
-* we are currently working on images from diferent angles to see what provides the best data*
-* 
+*we are currently working on images from diferent angles to see what provides the best data*
 <br>
 <br>
 
@@ -170,9 +166,9 @@ USGS Flow Cam Discharge Data collection
 + Establish a location for for digital flow pictures. 
 + Install camera so that you can record clear digital photos of the stream in a upstream direction.
 + Note the angle and line of site of the camera to ensure that it is repositioned to the aproprite placement after maintenance or data download.
-+ Set camera to record data every 15 min on the hour and set to standard time.
++ Set camera to standard time and to record digital photos every 15 min on the hour so it coincides with pressures transducer data logging..
 + Download the camera the begining of each month.
-+ + Record and check camera settings. Recored battery level. Note any onformation on camera or conditions that may be usefull when QAQC of dat is being performed.
++ Record and check camera settings. Recored battery level. Note any onformation on camera or conditions that may be usefull when QAQC of dat is being performed.
 + label images?
 + Upload to?
 + +Generate a stage discharge rating curve
@@ -181,6 +177,7 @@ USGS Flow Cam Discharge Data collection
 
 + Install camera so that you can record clear digital photos of gauge pool including control in a upstream direction. If possiable have photos capture satff gauge height as well.
 + Single camera setup. All Setups except Avery Brook.
+
 *Single Camera Setup*
 
 <p align="center">
@@ -192,14 +189,13 @@ USGS Flow Cam Discharge Data collection
 <p align="center">
   <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
 </p>
+
 + Note the angle and line of site of the camera to ensure that it is repositioned to the aproprite placement after maintenance or data download.
-+ Set camera to record data every 15 min on the hour and set to standard time.
++ Set camera to standard time and to record digital photos every 15 min on the hour so it coincides with pressures transducer data logging. 
 + Download the camera the begining of each month.
 + Record and check camera settings. Recored battery level. Note any onformation on camera or conditions that may be usefull when QAQC of dat is being performed.
 + label images?
 + Upload to?
-+ Generate a stage discharge rating curve
-+ 
++ Generate a stage discharge rating curve.
 
-+ Collect digital Photos
 
