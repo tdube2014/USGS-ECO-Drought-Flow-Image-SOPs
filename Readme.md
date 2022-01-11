@@ -125,19 +125,22 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 
 ## **Flow Cam Discharge Data collection** <a name="paragraph2"></a>
 
-#### Flow Cam Introduction
 
-We are exploring the usefulness of digital photos as a affordable method of assessing stream flow.  In streams where we have generated a accurate stage discharge relationship we can create a digital library of staff gauge height that can be used to accurately calculate flow. Cameras that range from $70 could be a useful method of data collection in contrast to $300 dollar and up level loggers.  Thus allowing form collection of data in more stream locations.
 
 #### Methods
 
-+ Establish a location for discharge data collection as described in Discharge Data Collection SOPs
++ Any size river is useful.
++ Establish a location for digital flow collection.
++ Install camera so that you can record clear digital photos of the river.
 
-+ Install camera so that you can record clear digital photos of satff gauge height.
+<img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
 
-+ Generate a staff discharge rating curve
-
-+ Collect digital Photos 
++ Collect digital Photos. images must have EXIF data embedded (most game camera images do. This becomes an issue if you manipulate the files after download, for example, converting the files to another file type or rotating the images.
++ flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful (longer than weekly is helpful is it is a long term record of condition.
++ No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful.
++ Record and check the time zone and daylight savings settings on the game camera at deployment. Most game cameras DO NOT adjust for daylight savings time.
++ label images?
++ Upload to?
 
 
 ## **Flow Cam Discharge Data collection** <a name="paragraph3"></a>
