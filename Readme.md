@@ -134,12 +134,11 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 + Install camera so that you can record clear digital photos of the river.
 <br>
 <br>
-*Avery Brook*
+*Single Camera Setup*
 <p align="center">
-  <img src="Equipment Info/Flow Cam/Images/WB 1 camera.png" width="800" title="Avery Brook">
+  <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
 </p>
 
-<img src="Equipment Info/Flow Cam/Images/WB 1 camera.png" width="150" height="150" />
 
 + Collect digital Photos. images must have EXIF data embedded (most game camera images do. This becomes an issue if you manipulate the files after download, for example, converting the files to another file type or rotating the images.
 + flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful (longer than weekly is helpful is it is a long term record of condition.
