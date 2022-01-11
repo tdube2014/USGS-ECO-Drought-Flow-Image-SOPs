@@ -111,15 +111,28 @@ Equipment Info/Flow Cam/Images/Python Cable.jpg
 
 ### Camera mounts <a name="subparagraph21"></a>
 There are a variety of way to mount cameras, tree straps, tree screws, Fence T posts and stand alone ground mounts to name a few.
-+ Tree Strap    <img src="Equipment Info/Flow Cam/Images/Tree strap.jpg" width="150" height="150" />
 
-+ Tree screw    <img src="Equipment Info/Flow Cam/Images/Tree Screw.jpg" width="150" height="150" />
++ Tree Strap 
+<p align="left">  
+  <img src="Equipment Info/Flow Cam/Images/Tree strap.jpg" width="150" height="150" />
+</p>
+ 
++ Tree screw
+<p align="left">
+  <img src="Equipment Info/Flow Cam/Images/Tree Screw.jpg" width="150" height="150" /> 
+</p>
 
-+ Fence T post <img src="Equipment Info/Flow Cam/Images/T post bracket.jpg" width="150" height="150" /> 
++ Fence T post
+<p align="left">
+  <img src="Equipment Info/Flow Cam/Images/T post bracket.jpg" width="150" height="150" /> 
+</p> 
 
-+ Ground Mount <img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
++ Ground Mount 
+<p align="left">
+  <img src="Equipment Info/Flow Cam/Images/Ground Mount.jpg" width="150" height="150" />
+</p>
 
-
+ 
 
 
 ## **Flow Cam Discharge Data collection** <a name="paragraph2"></a>
