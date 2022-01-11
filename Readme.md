@@ -102,6 +102,8 @@ We have attached a list of supplies as a starting point, most are theequipment w
 
 ### Python Cable <a name="subparagraph7"></a>
 
+Equipment Info/Flow Cam/Images/Python Cable.jpg
+
 ### Camera mounts <a name="subparagraph21"></a>
 There are a variety of way to mount cameras, tree straps, tree screws, Fence T posts and stand alone ground mounts to name a few.
 + Tree Strap    <img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
