@@ -27,14 +27,14 @@
     6. [Camera mounts](#subparagraph7)
       
 
-3. [Discharge Data collection](#paragraph2)
+3. [Flow Cam Discharge Data collection](#paragraph2)
 
 
  
     
     
     
-4. [Flow Cam Discharge Data collection](#paragraph3)
+4. [USGS Flow Cam Discharge Data collection](#paragraph3)
 
 5. [Flow Cam Time Lapse Discharge Data collection](#paragraph4)
  
@@ -123,7 +123,7 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 
 
 
-
+## **Flow Cam Discharge Data collection** <a name="paragraph2"></a>
 
 #### Flow Cam Introduction
 
@@ -140,15 +140,7 @@ We are exploring the usefulness of digital photos as a affordable method of asse
 + Collect digital Photos 
 
 
-<img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="300" height="300" />
+## **Flow Cam Discharge Data collection** <a name="paragraph3"></a>
 
 
-[Game Cam pdf](./Equipment Info/Flow Cam/Documentation/119874C-119875C-119876C-119877C-Trophy-Cam-HD-Aggressor.pdf)
-This is a sub paragraph, formatted in heading 3 style
-
-
-
-
-
-
-+-------------+-------+--------+--------+
+USGS Flow Cam Discharge Data collection
