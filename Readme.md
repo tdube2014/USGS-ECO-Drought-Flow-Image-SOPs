@@ -4,9 +4,8 @@
 <br>
 
 <p align="center">
-  <img src="./Images/Stream Images/YOY Map Final levels.png" width="800" title="Stream Locations map">
+  <img src="Equipment Info/Flow Cam/Images/Camera setup 3.jpg" width="500" height="600" title="Stream Locations map">
 </p>
-
 <br>
 <br>
 
