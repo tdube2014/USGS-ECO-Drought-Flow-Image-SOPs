@@ -36,18 +36,7 @@
 4. [USGS Flow Cam Discharge Data collection](#paragraph3)
 
 5. [Flow Cam Time Lapse Discharge Data collection](#paragraph4)
- 
-    5. [Data Loggers](#subparagraph)
-    
-        1.[Onset](#subparagraph)
-        
-        2.[In-Situ](#subparagraph)
-     
-        3.[Solenst](#subparagraph)
-      
-        4.[Flow Cams](#subparagraph)
-        
-6. [Stream Temperature Data collection](#paragraph5)
+
         
 <br>
 <br>
@@ -61,7 +50,9 @@ The goals of this project are to 1) find a new way of measuring how much water f
 ## **Equipment** <a name="paragraph1"></a>
 
 ### **Equipment List** <a name="subparagraph1"></a>
-*Digital Flow equipment
+
+
+
 <br>
 We have attached a list of supplies as a starting point, most are theequipment we use. Actulal items will vaty depending on the camera you choose. The catagories will likely stay the same. As long as you haver a clear view of the river the images should be useful.
 <br>
@@ -143,10 +134,15 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 
 + Any size river is useful.
 + Establish a location for digital flow collection.
-+ Install camera so that you can record clear digital photos of the river.
++ Install camera so that you can record clear digital photos of the river In a upstream Direction.
+
+* we are currently working on images from diferent angles to see what provides the best data*
+* 
 <br>
 <br>
+
 *Single Camera Setup*
+
 <p align="center">
   <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
 </p>
@@ -156,6 +152,7 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 + flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful (longer than weekly is helpful is it is a long term record of condition.
 + No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful.
 + Record and check the time zone and daylight savings settings on the game camera at deployment. Most game cameras DO NOT adjust for daylight savings time.
++ Download images and insure that the camera is returned to the same location (angle and line of sight of stream).
 + label images?
 + Upload to?
 
@@ -164,4 +161,45 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 
 
 USGS Flow Cam Discharge Data collection
+
+
+#### Methods
+
+## USGS ECODrought Non Gage Station Images ##
+
++ Establish a location for for digital flow pictures. 
++ Install camera so that you can record clear digital photos of the stream in a upstream direction.
++ Note the angle and line of site of the camera to ensure that it is repositioned to the aproprite placement after maintenance or data download.
++ Set camera to record data every 15 min on the hour and set to standard time.
++ Download the camera the begining of each month.
++ + Record and check camera settings. Recored battery level. Note any onformation on camera or conditions that may be usefull when QAQC of dat is being performed.
++ label images?
++ Upload to?
++ +Generate a stage discharge rating curve
+
+##  USGS ECODrought Gage Station Images ##
+
++ Install camera so that you can record clear digital photos of gauge pool including control in a upstream direction. If possiable have photos capture satff gauge height as well.
++ Single camera setup. All Setups except Avery Brook.
+*Single Camera Setup*
+
+<p align="center">
+  <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
+</p>
+
+*Four Camera setup at Avery Brook*
+
+<p align="center">
+  <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
+</p>
++ Note the angle and line of site of the camera to ensure that it is repositioned to the aproprite placement after maintenance or data download.
++ Set camera to record data every 15 min on the hour and set to standard time.
++ Download the camera the begining of each month.
++ Record and check camera settings. Recored battery level. Note any onformation on camera or conditions that may be usefull when QAQC of dat is being performed.
++ label images?
++ Upload to?
++ Generate a stage discharge rating curve
++ 
+
++ Collect digital Photos
 
