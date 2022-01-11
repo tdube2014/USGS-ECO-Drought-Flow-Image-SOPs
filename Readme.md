@@ -99,8 +99,11 @@ We have attached a list of supplies as a starting point, most are theequipment w
 
 ### Security Box Lock <a name="subparagraph6"></a>
 + Masterlock
++ <img src="Equipment Info/Flow Cam/Images/Master Lock.jpg" width="150" height="150" />
+
 
 ### Python Cable <a name="subparagraph7"></a>
+<img src="Equipment Info/Flow Cam/Images/Python Cable.jpg" width="150" height="150" />
 
 Equipment Info/Flow Cam/Images/Python Cable.jpg
 
