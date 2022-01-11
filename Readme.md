@@ -115,7 +115,7 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 
 + Tree screw    <img src="Equipment Info/Flow Cam/Images/Tree Screw.jpg" width="150" height="150" />
 
-+ Fence T post <img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" /> 
++ Fence T post <img src="Equipment Info/Flow Cam/Images/T post bracket.jpg" width="150" height="150" /> 
 
 + Ground Mount <img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height="150" />
 
