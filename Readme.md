@@ -117,47 +117,7 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
   <img src="Equipment Info/Flow Cam/Images/Tree Screw.jpg" width="150" height="150" /> 
 </p>
 
-+ Fence T post
-<p align="left">
-  <img src="Equipment Info/Flow Cam/Images/T post bracket.jpg" width="150" height="150" /> 
-</p> 
 
-+ Ground Mount 
-<p align="left">
-  <img src="Equipment Info/Flow Cam/Images/Ground Mount.jpg" width="150" height="150" />
-</p>
-
- 
-
-
-## **Flow Cam Discharge Data collection** <a name="paragraph2"></a>
-
-
-
-#### Methods
-
-+ Any size river is useful.
-+ Establish a location for digital flow collection.
-+ Install camera so that you can record clear digital photos of the river In a upstream Direction.
-
-*we are currently working on images from diferent angles to see what provides the best data*
-<br>
-<br>
-
-*Single Camera Setup*
-
-<p align="center">
-  <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
-</p>
-
-
-+ Collect digital Photos. images must have EXIF data embedded (most game camera images do. This becomes an issue if you manipulate the files after download, for example, converting the files to another file type or rotating the images.
-+ flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful (longer than weekly is helpful is it is a long term record of condition.
-+ No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful.
-+ Record and check the time zone and daylight savings settings on the game camera at deployment. Most game cameras DO NOT adjust for daylight savings time.
-+ Download images and insure that the camera is returned to the same location (angle and line of sight of stream).
-+ label images?
-+ Upload to?
 
 
 ## **USGS Flow Cam Discharge Data collection** <a name="paragraph3"></a>
