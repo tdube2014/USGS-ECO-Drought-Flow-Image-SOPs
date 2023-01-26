@@ -143,7 +143,7 @@ USGS Flow Cam Discharge Data collection
 *Single Camera Setup*
 
 <p align="center">
-  <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
+  <img src="Equipment Info/Flow Cam/Images/West Brook 1 Camera Setup.png" width="800" title="Avery Brook">
 </p>
 
 *Four Camera setup at Avery Brook*
